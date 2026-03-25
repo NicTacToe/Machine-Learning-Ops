@@ -26,4 +26,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: nictactoe5712/titanic-api:latest
+          tags: Nictactoe5712/titanic-api:latest
